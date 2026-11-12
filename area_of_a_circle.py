@@ -1,3 +1,5 @@
+# I310D Git Basics Tutorial - Practicing version control
+
 def compute_area_of_circle(radius):
 	pi = 3.14
 	area = pi * radius * radius
